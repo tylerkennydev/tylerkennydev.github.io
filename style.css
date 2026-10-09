@@ -58,3 +58,6 @@ nav a:hover,nav a[aria-current=page]{color:var(--gold)}
 .site-footer{border-top:2px solid #2e241b;padding:24px 0;text-align:center}
 .flinks{list-style:none;display:flex;flex-wrap:wrap;gap:20px;justify-content:center;padding:0;margin:0 0 8px}
 .flinks a{color:var(--cream);font-weight:700}
+
+.btn.big{font-size:1.15rem;padding:16px 34px;max-width:440px}
+.btns .br{flex-basis:100%;height:0}
